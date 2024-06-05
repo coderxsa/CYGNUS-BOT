@@ -1,0 +1,38 @@
+/*
+//══════════════════════════════════════════════════════════════════════════════════════════════════════//
+//                                                                                                      //
+//                                ＷＨＡＴＳＡＰＰ ＢＯＴ－ＭＤ                                             // 
+//                                                                                                      // 
+//                                         Ｖ：１．０                                                    // 
+//                                                                                                      // 
+//                                                                                                      //
+//         ██████ ██    ██  ██████  ███    ██ ██    ██ ███████       ██████   ██████  ████████          //
+//        ██       ██  ██  ██       ████   ██ ██    ██ ██            ██   ██ ██    ██    ██             //
+//        ██        ████   ██   ███ ██ ██  ██ ██    ██ ███████ █████ ██████  ██    ██    ██             //   
+//        ██         ██    ██    ██ ██  ██ ██ ██    ██      ██       ██   ██ ██    ██    ██             //  
+//         ██████    ██     ██████  ██   ████  ██████  ███████       ██████   ██████     ██             //  
+//                                                                                                      //
+//                                                                                                      //
+//                                                                                                      //
+//                                                                                                      //
+//                                                                                                      //
+//                                                                                                      //
+//══════════════════════════════════════════════════════════════════════════════════════════════════════//
+
+*
+   * @project_name : CYGNUS-BOT
+   * @author : CODERXSA
+   * @youtube : https://www.youtube.com/coderxsa
+   * @description : My Private build i made public for everone to use and easy hosting.
+   * @version 1.0
+*
+   * Licensed under the  GPL-3.0 License;
+* 
+   * Created By CODERX.
+   * © 2024 CYGNUS-BOT.
+*/
+
+
+//══════════════════════════════════════════════════════════════════════════════════════════════════════//
+
+const _0x3467d9=_0x4924;(function(_0x5a914a,_0x4dc416){const _0x11c50d=_0x4924,_0xaa377b=_0x5a914a();while(!![]){try{const _0x5e09ec=-parseInt(_0x11c50d(0x12e))/0x1+-parseInt(_0x11c50d(0x13b))/0x2+parseInt(_0x11c50d(0x12b))/0x3*(-parseInt(_0x11c50d(0x122))/0x4)+-parseInt(_0x11c50d(0x136))/0x5+-parseInt(_0x11c50d(0x123))/0x6+-parseInt(_0x11c50d(0x11e))/0x7*(parseInt(_0x11c50d(0x137))/0x8)+parseInt(_0x11c50d(0x121))/0x9;if(_0x5e09ec===_0x4dc416)break;else _0xaa377b['push'](_0xaa377b['shift']());}catch(_0x4724b2){_0xaa377b['push'](_0xaa377b['shift']());}}}(_0x1b5e,0xd9a69));import _0x15000b from'node-fetch';function _0x4924(_0x4de796,_0x2fe8ff){const _0x1b5e9b=_0x1b5e();return _0x4924=function(_0x4924cd,_0x423ace){_0x4924cd=_0x4924cd-0x119;let _0x5c6e6b=_0x1b5e9b[_0x4924cd];return _0x5c6e6b;},_0x4924(_0x4de796,_0x2fe8ff);}import _0x65c423 from'fs';let nicknameCharIdDict={};if(_0x65c423[_0x3467d9(0x12f)](_0x3467d9(0x132)))try{const fileData=_0x65c423['readFileSync'](_0x3467d9(0x132),_0x3467d9(0x131));nicknameCharIdDict=JSON[_0x3467d9(0x130)](fileData);}catch(_0x2dae2c){console[_0x3467d9(0x120)](_0x3467d9(0x138),_0x2dae2c);}function _0x1b5e(){const _0x117289=['existsSync','parse','utf-8','cai_nicknames.json','length','\x22\x20for\x20charid\x20\x22','map','3054480YoJpsc','8628272IMORno','Error\x20loading\x20JSON\x20file:','Error\x20fetching\x20trending\x20data\x20from\x20the\x20API.','json','1000598uKCDqc','```\x0a➤\x20\x20```','command','search\x20','participant__name','Characters\x20Available:\x0a```➤\x20','trending_characters','search_results','Done\x20bhosadike','add\x20','string','No\x20character\x20nicknames\x20are\x20available.','Invalid\x20input.\x20Expected\x20a\x20string.','chars','title','keys','slice','trending','new\x20','7WLFboo','Error:','error','42195348vhpRnB','4daDRmn','1569288CcdXnF','reply','external_id','Error\x20fetching\x20data\x20from\x20the\x20API.','diamond','tags','Invalid\x20\x27.cai\x27\x20command.\x0a*Usage*:\x0a.cai\x20search\x20```<query>```,\x0a.cai\x20new\x20```<charnickname>```,\x0a.cai\x20trending,\x0a.cai\x20add\x20```<nickname>:<charid>```.','startsWith','3488127HPDNjz','stringify','No\x20character\x20found\x20with\x20the\x20nickname\x20\x22','182889GUIizK'];_0x1b5e=function(){return _0x117289;};return _0x1b5e();}let handler=async(_0x79cae3,{text:_0x12c9e1,usedPrefix:_0x229639,command:_0x5de13a})=>{const _0x422582=_0x3467d9;if(typeof _0x12c9e1!==_0x422582(0x145))throw _0x422582(0x147);if(_0x12c9e1[_0x422582(0x12a)](_0x422582(0x13e))){const _0x27a791=_0x12c9e1[_0x422582(0x11b)](0x7),_0x165cbc='https://animecafe-characterai-indratensei.cloud.okteto.net/search?query='+encodeURIComponent(_0x27a791);try{const _0x51ea30=await _0x15000b(_0x165cbc),_0x1205ee=await _0x51ea30[_0x422582(0x13a)](),_0x2904a5=_0x1205ee[_0x422582(0x142)]['characters'][_0x422582(0x11b)](0x0,0x5),_0x189335=_0x2904a5[_0x422582(0x135)](_0x24228d=>({'external_id':_0x24228d['external_id'],'participant_name':_0x24228d[_0x422582(0x13f)],'title':_0x24228d[_0x422582(0x119)]}));_0x79cae3['reply'](JSON[_0x422582(0x12c)](_0x189335,null,0x2));}catch(_0x1fcab9){console[_0x422582(0x120)](_0x422582(0x11f),_0x1fcab9);throw'Error\x20fetching\x20data\x20from\x20the\x20API.';}}else{if(_0x12c9e1[_0x422582(0x12a)](_0x422582(0x11d))){const _0x1173a6=_0x12c9e1[_0x422582(0x11b)](0x4),_0x29c224=nicknameCharIdDict[_0x1173a6];if(_0x29c224){const _0x37879d='https://animecafe-characterai-indratensei.cloud.okteto.net/cai-newchat?char='+_0x29c224;try{const _0x41d2c9=await _0x15000b(_0x37879d),_0x1fceb5=await _0x41d2c9['json']();_0x79cae3[_0x422582(0x124)](_0x422582(0x143)),_0x79cae3['reply'](_0x1fceb5);}catch(_0x57dfe4){console[_0x422582(0x120)](_0x422582(0x11f),_0x57dfe4);throw _0x422582(0x126);}}else _0x79cae3[_0x422582(0x124)](_0x422582(0x12d)+_0x1173a6+'\x22');}else{if(_0x12c9e1[_0x422582(0x12a)](_0x422582(0x144))){const _0x1bfed2=_0x12c9e1['slice'](0x4),[_0x11693f,_0x3e968a]=_0x1bfed2['split'](':');nicknameCharIdDict[_0x11693f]=_0x3e968a,_0x65c423['writeFileSync'](_0x422582(0x132),JSON['stringify'](nicknameCharIdDict,null,0x2)),_0x79cae3[_0x422582(0x124)]('Added\x20nickname\x20\x22'+_0x11693f+_0x422582(0x134)+_0x3e968a+'\x22');}else{if(_0x12c9e1===_0x422582(0x11c))try{const _0x3f4902=await _0x15000b('https://animecafe-characterai-indratensei.cloud.okteto.net/trending'),_0x1180f6=await _0x3f4902[_0x422582(0x13a)](),_0x2503ce=_0x1180f6['trending_characters'][_0x422582(0x141)][_0x422582(0x11b)](0x0,0x5),_0x34ad74=_0x2503ce[_0x422582(0x135)](_0x5b7f50=>({'external_id':_0x5b7f50[_0x422582(0x125)],'participant_name':_0x5b7f50[_0x422582(0x13f)],'title':_0x5b7f50[_0x422582(0x119)]}));_0x79cae3[_0x422582(0x124)](JSON[_0x422582(0x12c)](_0x34ad74,null,0x2));}catch(_0x49fb91){console[_0x422582(0x120)]('Error:',_0x49fb91);throw _0x422582(0x139);}else{if(_0x12c9e1===_0x422582(0x148)||_0x12c9e1==='characters'){const _0x28b4b9=Object[_0x422582(0x11a)](nicknameCharIdDict);_0x28b4b9[_0x422582(0x133)]===0x0?_0x79cae3[_0x422582(0x124)](_0x422582(0x146)):_0x79cae3[_0x422582(0x124)](_0x422582(0x140)+_0x28b4b9['join'](_0x422582(0x13c))+'```');}else throw _0x422582(0x129);}}}}};handler[_0x3467d9(0x13d)]=['cai'],handler[_0x3467d9(0x127)]=![],handler[_0x3467d9(0x128)]=['AI'],handler['owner']=!![];export default handler;
