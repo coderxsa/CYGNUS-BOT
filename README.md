@@ -2,7 +2,7 @@
   <a href="https://youtu.be/WcA7GZuaN0A">
     <img alt="Guru" height="300" src="https://raw.githubusercontent.com/coderxsa/WABot/main/WA-BOT/cdn/images/logo.png">
     <h1 align="center">CYGNUS-BOT 1.O</h1>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +FLASH-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+FRANCE+KING;RELEASED+22.2.2024" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +CYGNUS-BOT;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+CODERX;RELEASED+22.2.2024" alt="Typing SVG" /></a>
   </a>
 </p>
 <p align="center">
