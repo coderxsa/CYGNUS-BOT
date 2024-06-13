@@ -81,7 +81,7 @@ global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/coderx.sa\n'
 global.dygp = 'https://chat.whatsapp.com/GD3a3M3G7Mx0lyhMXkCO73'
 global.fgsc = 'https://github.com/coderxsa'
 global.fgyt = 'https://www.youtube.com/@coderxsa'
-global.fgpyp = 'https://www.youtube.com/@coderxsa'
+global.fgpyp = 'https://pay.yoco.com/coderx'
 global.fglog = 'https://raw.githubusercontent.com/coderxsa/WABot/main/WA-BOT/cdn/images/logo.png'
 global.thumb = fs.readFileSync('./Assets/Cygnuslogo.jpg')
 
