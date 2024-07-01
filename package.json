@@ -28,16 +28,16 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/nxfelibata/TEST",
+    "homepage": "https://github.com/coderxsa/TEST",
     "author": {
         "name": "GURU"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/nxfelibata/TEST.git"
+        "url": "git+https://github.com/ncoderxsa/TEST.git"
     },
     "bugs": {
-        "url": "https://github.com/nxfelibata/TEST/issues"
+        "url": "https://github.com/ncoderxsa/TEST/issues"
     },
     "license": "Apache License 2.0",
     "dependencies": {
